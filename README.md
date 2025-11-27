@@ -25,7 +25,5 @@ Telegram бот с искусственным интеллектом, испол
   pip install -r requirements.txt
 
 3. Запустите бота:
-
-bash
-python bot_final.py
+  python bot_final.py
 
